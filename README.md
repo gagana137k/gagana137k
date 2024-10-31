@@ -1,5 +1,5 @@
-## Hi there 👋
-Unlocking the power of data to shape the future.
+### Gagana K
+**Unlocking the power of data to shape the future.**
 <!--
 **gagana137k/gagana137k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
