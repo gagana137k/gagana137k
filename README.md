@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a data science enthusiast from Bengaluru with a passion for turning data into meaningful insights. I enjoy exploring machine learning, AI, and statistical modeling, and I thrive on solving real-world problems. Currently pursuing my BCA, I'm excited to dive deeper into data science and make an impact in the field.</p>
+<p align="left">I'm a data science enthusiast with a passion for turning data into meaningful insights. I enjoy exploring machine learning, AI, and statistical modeling, and I thrive on solving real-world problems. Currently pursuing my BCA, I'm excited to dive deeper into data science and make an impact in the field.</p>
 
 ###
 
